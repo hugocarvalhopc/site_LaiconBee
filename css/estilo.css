@@ -1,0 +1,65 @@
+#home {
+    background-color: #428bca;
+    color: white;
+}
+
+.caixa {
+    padding: 80px 0;
+    border-bottom: 1px solid rgb(233, 230, 230);
+    
+}
+
+footer p a {
+    padding: 0 6px;
+    color: white;
+    
+    
+}
+
+/*customização de cor navbar*/
+
+.navbar-light .navbar-nav .nav-link  {
+    color: white;
+}
+
+
+.navbar-light .navbar-nav .nav-link:hover  {
+    color: rgb(6, 65, 112);
+}
+
+.navbar-light .navbar-toggler {
+    color: white;
+    border-color: white;
+}
+
+
+/*---------------------------------------------*/
+
+
+
+/*MEDIA QUERIES*/
+
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {  
+    .col-md-3 {
+        padding: 40px;
+    }
+}
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+    
+
+  }
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    #linkedin {
+        display:;
+    }
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { }
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {  }
