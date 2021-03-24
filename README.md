@@ -1,6 +1,6 @@
 # Laicon Bee :bee:
 
-![](C:\Users\Hugo Carvalho\Downloads\page-home.png)
+![](https://prnt.sc/10u6mnn)
 
 ### Laicon bee é uma empresa fictícia de desenvolvimento de software. Tem o objetivo de solucionar problemas das mais diversas área com o uso da tecnologia.
 
